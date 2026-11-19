@@ -1,0 +1,9 @@
+# Local datasets and trained artifacts
+*.xlsx
+*.xls
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
+air_quality_outputs/
